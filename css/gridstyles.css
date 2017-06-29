@@ -76,6 +76,9 @@ img {
     height: 200px;
     padding-bottom: 0;
 }
+.col{
+    width: 100%;
+}
 
 .col-1 {
     width: 8.33333%;
