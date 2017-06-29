@@ -77,7 +77,7 @@ img {
     padding-bottom: 0;
 }
 .col{
-    width: 100%;
+    width: auto;
 }
 
 .col-1 {
