@@ -78,6 +78,7 @@ img {
 }
 .col{
     width: auto;
+    float: left;
 }
 
 .col-1 {
